@@ -2552,6 +2552,10 @@
 	}
 
 		.image img {
+                        width: 200px; /* Larghezza desiderata */
+                        height: 300px; /* Altezza desiderata */
+                        object-fit: cover; /* Ritaglia l'immagine mantenendo le proporzioni */
+                        border: 1px solid #ddd; /* Bordo sottile (opzionale) */
 			border-radius: 0.375em;
 			display: block;
 		}
