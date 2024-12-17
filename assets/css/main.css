@@ -2569,8 +2569,7 @@
                         width: 300px; /* Larghezza desiderata */
                         height: 200px; /* Altezza desiderata */
                         object-fit: cover; /* Ritaglia l'immagine mantenendo le proporzioni */
-                        border: 1px solid #ddd; /* Bordo sottile (opzionale) */
-			max-width: 40%;
+                        border: 1px solid #ddd; /* Bordo sottile (opzionale) 
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
