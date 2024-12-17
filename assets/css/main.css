@@ -2560,15 +2560,14 @@
 			.image.left img, .image.right img {
 				width: 300px; /* Larghezza desiderata */
                                 height: 200px; /* Altezza desiderata */
-                                object-fit: cover; /* Ritaglia l'immagine mantenendo le proporzioni */
+                                /* object-fit: cover; Ritaglia l'immagine mantenendo le proporzioni */
                                 border: 1px solid #ddd; /* Bordo sottile (opzionale) */
-			        max-width: 40%;
                 }
 
 		.image.left {
                         width: 300px; /* Larghezza desiderata */
                         height: 200px; /* Altezza desiderata */
-                        object-fit: cover; /* Ritaglia l'immagine mantenendo le proporzioni */
+                        /* object-fit: cover;  Ritaglia l'immagine mantenendo le proporzioni */
                         border: 1px solid #ddd; /* Bordo sottile (opzionale) 
 			float: left;
 			padding: 0 1.5em 1em 0;
