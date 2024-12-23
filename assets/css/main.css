@@ -2558,15 +2558,15 @@
 
 
 			.image.left img, .image.right img {
-				width: 300px; /* Larghezza desiderata */
-                                height: 200px; /* Altezza desiderata */
+				width: 100px; /* Larghezza desiderata */
+                                height: 100px; /* Altezza desiderata */
                                 /* object-fit: cover; Ritaglia l'immagine mantenendo le proporzioni */
                                 border: 1px solid #ddd; /* Bordo sottile (opzionale) */
                 }
 
 		.image.left {
-                        width: 300px; /* Larghezza desiderata */
-                        height: 200px; /* Altezza desiderata */
+                        width: 100px; /* Larghezza desiderata */
+                        height: 100px; /* Altezza desiderata */
                         /* object-fit: cover;  Ritaglia l'immagine mantenendo le proporzioni */
                         border: 1px solid #ddd; /* Bordo sottile (opzionale) 
 			float: left;
