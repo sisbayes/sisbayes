@@ -2566,7 +2566,7 @@
                 }
 
 		.image.left {
-                        width: 100px; /* Larghezza desiderata */
+                        width: 300px; /* Larghezza desiderata */
                         height: 100px; /* Altezza desiderata */
                         /* object-fit: cover;  Ritaglia l'immagine mantenendo le proporzioni */
                         border: 1px solid #ddd; /* Bordo sottile (opzionale) 
