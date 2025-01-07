@@ -2562,12 +2562,17 @@
 
 			.image.left img, .image.right img {
 				width: 100%;
+                                height: 100%;
+                                object-fit: cover; /* Adatta l'immagine ritagliandola se necessario */
+                                border-radius: 0.375em; /* Mantieni gli angoli arrotondati esistenti */
 			}
 
 		.image.left {
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
+                        width: 150px; /* Dimensione fissa */
+                        height: 150px; /* Altezza uguale alla larghezza */
 		}
 
 		.image.right {
